@@ -8,7 +8,7 @@ tags:
 license: mit
 ---
 
-# Supertonic-2 ONNX Inference
+# Supertonic-2 QNN Inference
 
 <audio controls src="https://huggingface.co/dev-ansh-r/supertonic2-qualcomm-quantized/resolve/main/output/custom.wav"></audio>
 
