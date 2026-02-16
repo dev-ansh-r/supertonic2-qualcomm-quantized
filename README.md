@@ -8,6 +8,8 @@ tags:
 license: mit
 ---
 
+## Note: This repository is a work in progress. The README will be updated with more details on the QCS6490 porting process, model architecture, and calibration data generation workflow in the coming weeks. Please check back for updates!
+
 # Supertonic-2 QNN Inference
 
 <audio controls src="https://huggingface.co/dev-ansh-r/supertonic2-qualcomm-quantized/resolve/main/output/custom.wav"></audio>
