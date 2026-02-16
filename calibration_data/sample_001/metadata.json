@@ -1,0 +1,8 @@
+{
+  "text": "Hello world, this is a test.",
+  "voice": "F1",
+  "lang": "en",
+  "steps": 10,
+  "seed": 42,
+  "category": "short"
+}

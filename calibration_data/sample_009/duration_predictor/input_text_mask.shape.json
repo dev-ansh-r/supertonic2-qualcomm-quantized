@@ -1,0 +1,9 @@
+{
+  "shape": [
+    1,
+    1,
+    128
+  ],
+  "dtype": "float32",
+  "size_bytes": 512
+}

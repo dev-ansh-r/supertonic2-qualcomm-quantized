@@ -1,0 +1,102 @@
+{
+  "num_samples": 10,
+  "samples": [
+    {
+      "sample_id": "sample_001",
+      "text": "Hello world, this is a test.",
+      "voice": "F1",
+      "lang": "en",
+      "category": "short",
+      "diffusion_steps": 10,
+      "seed": 42
+    },
+    {
+      "sample_id": "sample_002",
+      "text": "Good morning everyone.",
+      "voice": "F1",
+      "lang": "en",
+      "category": "short",
+      "diffusion_steps": 10,
+      "seed": 100
+    },
+    {
+      "sample_id": "sample_003",
+      "text": "The weather is nice today.",
+      "voice": "F1",
+      "lang": "en",
+      "category": "short",
+      "diffusion_steps": 10,
+      "seed": 150
+    },
+    {
+      "sample_id": "sample_004",
+      "text": "The quick brown fox jumps over the lazy dog. This sentence contains every letter of the alphabet.",
+      "voice": "F1",
+      "lang": "en",
+      "category": "medium",
+      "diffusion_steps": 10,
+      "seed": 200
+    },
+    {
+      "sample_id": "sample_005",
+      "text": "Machine learning models require careful calibration to ensure accuracy on edge devices.",
+      "voice": "F1",
+      "lang": "en",
+      "category": "medium",
+      "diffusion_steps": 10,
+      "seed": 300
+    },
+    {
+      "sample_id": "sample_006",
+      "text": "Text to speech synthesis has improved dramatically with the advent of neural networks and deep learning.",
+      "voice": "F1",
+      "lang": "en",
+      "category": "medium",
+      "diffusion_steps": 10,
+      "seed": 350
+    },
+    {
+      "sample_id": "sample_007",
+      "text": "Artificial intelligence has revolutionized many aspects of our daily lives, from smartphone assistants to recommendation systems. The deployment of neural networks on edge devices requires careful optimization, including quantization and calibration, to maintain accuracy while meeting strict latency and power constraints.",
+      "voice": "F1",
+      "lang": "en",
+      "category": "long",
+      "diffusion_steps": 10,
+      "seed": 400
+    },
+    {
+      "sample_id": "sample_008",
+      "text": "Qualcomm's Hexagon processor provides dedicated hardware acceleration for neural network inference. By leveraging the tensor processing units and optimized kernels, developers can achieve real-time performance for complex models like text-to-speech systems on mobile and edge devices.",
+      "voice": "F1",
+      "lang": "en",
+      "category": "long",
+      "diffusion_steps": 10,
+      "seed": 450
+    },
+    {
+      "sample_id": "sample_009",
+      "text": "Numbers: 1, 2, 3, 4, 5. Dates: January 1st, 2024. Time: 3:45 PM.",
+      "voice": "F1",
+      "lang": "en",
+      "category": "numbers",
+      "diffusion_steps": 10,
+      "seed": 500
+    },
+    {
+      "sample_id": "sample_010",
+      "text": "Dr. Smith's presentation at 9:00 AM covered topics including: AI, ML, NLP, and TTS. The conference runs from Mon. to Fri.",
+      "voice": "F1",
+      "lang": "en",
+      "category": "abbreviations",
+      "diffusion_steps": 10,
+      "seed": 600
+    }
+  ],
+  "model_info": {
+    "sample_rate": 44100,
+    "base_chunk_size": 512,
+    "chunk_compress_factor": 6,
+    "latent_dim": 24,
+    "effective_chunk_size": 3072
+  }
+}

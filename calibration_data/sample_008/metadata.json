@@ -1,0 +1,8 @@
+{
+  "text": "Qualcomm's Hexagon processor provides dedicated hardware acceleration for neural network inference. By leveraging the tensor processing units and optimized kernels, developers can achieve real-time performance for complex models like text-to-speech systems on mobile and edge devices.",
+  "voice": "F1",
+  "lang": "en",
+  "steps": 10,
+  "seed": 450,
+  "category": "long"
+}

@@ -1,0 +1,8 @@
+{
+  "text": "Artificial intelligence has revolutionized many aspects of our daily lives, from smartphone assistants to recommendation systems. The deployment of neural networks on edge devices requires careful optimization, including quantization and calibration, to maintain accuracy while meeting strict latency and power constraints.",
+  "voice": "F1",
+  "lang": "en",
+  "steps": 10,
+  "seed": 400,
+  "category": "long"
+}

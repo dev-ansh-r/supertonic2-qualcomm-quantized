@@ -1,0 +1,8 @@
+{
+  "text": "The quick brown fox jumps over the lazy dog. This sentence contains every letter of the alphabet.",
+  "voice": "F1",
+  "lang": "en",
+  "steps": 10,
+  "seed": 200,
+  "category": "medium"
+}

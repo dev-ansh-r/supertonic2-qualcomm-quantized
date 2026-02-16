@@ -1,0 +1,8 @@
+{
+  "text": "The weather is nice today.",
+  "voice": "F1",
+  "lang": "en",
+  "steps": 10,
+  "seed": 150,
+  "category": "short"
+}

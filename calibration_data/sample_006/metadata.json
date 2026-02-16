@@ -1,0 +1,8 @@
+{
+  "text": "Text to speech synthesis has improved dramatically with the advent of neural networks and deep learning.",
+  "voice": "F1",
+  "lang": "en",
+  "steps": 10,
+  "seed": 350,
+  "category": "medium"
+}

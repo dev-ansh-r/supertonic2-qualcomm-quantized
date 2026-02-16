@@ -1,0 +1,8 @@
+{
+  "text": "Dr. Smith's presentation at 9:00 AM covered topics including: AI, ML, NLP, and TTS. The conference runs from Mon. to Fri.",
+  "voice": "F1",
+  "lang": "en",
+  "steps": 10,
+  "seed": 600,
+  "category": "abbreviations"
+}

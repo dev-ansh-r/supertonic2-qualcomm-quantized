@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"d:/Projects/personal/supertonic2-qualcomm-quantized\" remote -v)",
+      "Bash(scp:*)",
+      "Bash(du -sh:*)",
+      "Bash(/dev/null -exec ls -lh {} ;)",
+      "Bash(git lfs track:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

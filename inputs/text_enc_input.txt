@@ -1,0 +1,1 @@
+/mnt/nunnari3/devansh/supertonic2-qualcomm/inputs/text_ids.raw /mnt/nunnari3/devansh/supertonic2-qualcomm/inputs/style_ttl.raw /mnt/nunnari3/devansh/supertonic2-qualcomm/inputs/text_mask.raw

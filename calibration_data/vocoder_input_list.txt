@@ -1,0 +1,10 @@
+calibration_data/sample_001/vocoder/input_latent.raw
+calibration_data/sample_002/vocoder/input_latent.raw
+calibration_data/sample_003/vocoder/input_latent.raw
+calibration_data/sample_004/vocoder/input_latent.raw
+calibration_data/sample_005/vocoder/input_latent.raw
+calibration_data/sample_006/vocoder/input_latent.raw
+calibration_data/sample_007/vocoder/input_latent.raw
+calibration_data/sample_008/vocoder/input_latent.raw
+calibration_data/sample_009/vocoder/input_latent.raw
+calibration_data/sample_010/vocoder/input_latent.raw
