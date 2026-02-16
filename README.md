@@ -1,4 +1,16 @@
+---
+tags:
+  - text-to-speech
+  - qualcomm
+  - qnn
+  - onnx
+  - quantized
+license: mit
+---
+
 # Supertonic-2 ONNX Inference
+
+<audio controls src="https://huggingface.co/dev-ansh-r/supertonic2-qualcomm-quantized/resolve/main/output/custom.wav"></audio>
 
 High-quality Text-to-Speech synthesis using Supertonic-2 ONNX models.
 
