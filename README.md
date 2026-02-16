@@ -14,7 +14,7 @@ license: mit
 
 <audio controls src="https://huggingface.co/dev-ansh-r/supertonic2-qualcomm-quantized/resolve/main/output/custom.wav"></audio>
 
-High-quality Text-to-Speech synthesis using Supertonic-2 ONNX models.
+High-quality Text-to-Speech synthesis using Supertonic-2 QNN models.
 
 ## Quick Start
 
