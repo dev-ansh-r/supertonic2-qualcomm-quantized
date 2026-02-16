@@ -6,7 +6,8 @@
       "Bash(du -sh:*)",
       "Bash(/dev/null -exec ls -lh {} ;)",
       "Bash(git lfs track:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }

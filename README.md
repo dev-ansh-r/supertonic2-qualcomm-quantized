@@ -50,12 +50,6 @@ python validate_qnn_accuracy.py \
 - ~75ms latency for 2-second audio (5 diffusion steps)
 - ~70-100 MB total model size (after INT8/FP16 quantization)
 
-## Requirements
-
-```bash
-pip install numpy onnxruntime
-```
-
 ## Model Files
 
 Required directory structure:
@@ -204,21 +198,6 @@ supertonic2-qualcomm/
 - Periods are added automatically if missing
 - Unicode characters are handled transparently
 - Emoji are automatically removed
-
-## Troubleshooting
-
-**No output generated:**
-- Check that all model files exist in `model/onnx/`
-- Ensure voice style file exists in `model/voice_styles/`
-
-**Poor quality output:**
-- Increase `--steps` to 15-20
-- Try different voice styles
-- Check that input text is properly formatted
-
-**Different outputs each run:**
-- Use `--seed` parameter for reproducibility
-- Same seed = same output
 
 ## License
 
